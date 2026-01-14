@@ -35,5 +35,4 @@ Live deployment on Render
 
 🌐 Live Demo
 
-👉 Deployed on Render
-(Add your Render link here)
+https://apex-journey-optimizer.onrender.com
